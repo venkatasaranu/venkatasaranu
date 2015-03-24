@@ -1,7 +1,7 @@
 package com.venkata.pmd.demo;
 
 public class PmdUnusedVariable {
-private String name; // Non used variable
+//private String name; // Non used variable
 private String value;
 public String getValue() {
 	return value;
